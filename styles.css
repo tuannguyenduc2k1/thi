@@ -1,0 +1,672 @@
+* {
+    padding: 0 auto;
+    margin: 0 auto;
+
+}
+.fa-adjust{
+    font-size: 40px;
+}
+
+  
+
+@media only screen and (min-width: 1024px) {
+    .index {
+        position: relative;
+        width: 100%;
+        height: 3800px;
+        background-color: #221f2a !important;
+        color: white;
+    }
+    navbar-collapse ul li a :hover{
+        color: blue !important;
+    }
+    .logo {
+        Width: 40px;
+        Height: 40px;
+
+
+    }
+    .nav-link{
+        margin-left: 2rem !important;
+       
+    }
+    .navbar-brand {
+        height: 39px;
+        width: 84px;
+        left: 168px;
+        top: 42px;
+        border-radius: nullpx;
+        font-family: Montserrat;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 39px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #FFFFFFB2 !important;
+
+    }
+
+    .nav-link {
+        color: #FFFFFFB2 !important;
+    }
+
+    .btnSeach {
+        position: absolute;
+        font-family: Nunito Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 22px;
+        color: #FFFFFFB2;
+        /* identical to box height */
+
+        text-align: center;
+        letter-spacing: -0.500211px;
+        border-color: white !important;
+        color: white !important;
+    }
+
+    .mr-auto {
+        margin-left: 30%;
+    }
+
+    .phan1 {
+        margin-top: 7%;
+        display: flex;
+    }
+
+    .phan1L {
+        width: 40%;
+    }
+
+    .phan1LR {
+        width: 40%;
+        ;
+    }
+
+    .phan1L h1 {
+        font-family: Graphik;
+        font-size: 80px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 84px;
+        letter-spacing: 0px;
+        text-align: left;
+
+    }
+
+    .phan1L p {
+        font-family: Nunito Sans;
+        font-size: 21px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 39px;
+        letter-spacing: -0.6565263867378235px;
+        text-align: left;
+        color: #FFFFFFB2;
+
+    }
+
+    .phan1L button {
+        position: absolute;
+        width: 204px;
+        height: 58px;
+        left: 123px;
+        top: 673px;
+        color: white;
+        background: #5454D4;
+        border-radius: 4px;
+        margin-top: 0%;
+
+    }
+
+    .phan1R img {
+        width: 120%;
+        margin-left: -20%;
+    }
+
+    .phan2 {
+        margin-top: 20%;
+    }
+
+    .phan2tren {
+        display: flex;
+    }
+
+    .phan2trenL h1 {
+        height: 140px;
+        width: 588px;
+        left: 120px;
+        top: 971px;
+        font-family: Graphik;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 70px;
+        letter-spacing: 0px;
+        text-align: left;
+
+
+
+
+    }
+
+    .phan2trenR p {
+        height: 78px;
+        width: 588px;
+        left: 732px;
+        top: 971px;
+        border-radius: nullpx;
+        font-family: Nunito Sans;
+        font-size: 21px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 39px;
+        letter-spacing: -0.6565263867378235px;
+        text-align: left;
+        color: #FFFFFFB2;
+
+    }
+
+    .phan2duoi {
+        position: absolute;
+        display: flex;
+        width: 1200px;
+        height: 670px;
+        left: 120px;
+
+        top: 1161px;
+        background: url(/images/image\ 4.png);
+    }
+
+    .phan2anhtron {
+        position: absolute;
+        width: 124px;
+        height: 124px;
+        margin: auto;
+        position: absolute;
+        top: 40%;
+        left: 45%;
+        border-radius: 100%;
+        background-color: #5454D4;
+    }
+
+    .phan2anhtron img {
+        margin: auto;
+        position: absolute;
+        top: 40%;
+        left: 45%;
+    }
+
+    .trensec3 {
+        height: 140px;
+        width: 695px;
+        left: 373px;
+        top: 1981px;
+        border-radius: nullpx;
+
+        margin-top: 55%;
+
+        font-family: Graphik;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 70px;
+        letter-spacing: 0px;
+        text-align: center;
+
+    }
+
+    .phan3 {
+        width: 80%;
+        text-align: center;
+        margin-left: 20%;
+    }
+
+    .listhop {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+
+    .hop {
+        width: 25%;
+        /* margin: 0 40px; */
+        margin: 100px 0px 40px 4px;
+        text-align: center;
+    }
+
+    .hop h3 {
+        height: 38px;
+        width: 199px;
+        left: 213px;
+        top: 2308px;
+        border-radius: nullpx;
+        font-family: Nunito Sans;
+        font-size: 25px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 38px;
+        letter-spacing: 0px;
+        text-align: center;
+
+
+    }
+
+    .hop p {
+
+        font-family: Nunito Sans;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: -0.5002105832099915px;
+        text-align: center;
+        color: #FFFFFFB2;
+
+    }
+
+    .trenphan4 {
+        height: 79px;
+        width: 685px;
+        font-family: Nunito Sans;
+        font-size: 58px;
+        font-style: normal;
+        font-weight: 800;
+        margin-left: 10%;
+
+
+    }
+
+    .phan4 {
+        display: flex;
+    }
+
+    .phan4 img {
+        height: 253px;
+        width: 336px;
+        left: 144px;
+        top: 3118px;
+        border-radius: 12px;
+        text-align: center;
+        margin-top: 5%;
+
+    }
+
+    .dauchamxanh {
+        height: 8px;
+        width: 16px;
+        border-radius: 10px;
+
+
+        position: absolute;
+        margin: auto;
+        margin-top: 95%;
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        background-color: #5454D4;
+    }
+
+    .phan5 {
+        margin-top: 30%;
+        display: flex;
+        text-align: center;
+        width: 80%;
+        justify-content: flex-start;
+    }
+
+    .phan5L {
+        width: 55%;
+    }
+
+    .phan5L h1 {
+        font-family: Graphik;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 66px;
+        letter-spacing: 0em;
+        text-align: left;
+        height: 132px;
+        width: 826px;
+        left: 120px;
+        top: 3924px;
+        border-radius: nullpx;
+        margin-left: -20%;
+        margin-top: -5%;
+
+    }
+
+    .phan5R {
+        width: 15%;
+    }
+
+    .phan5R button {
+        height: 60px;
+        width: 201px;
+        left: 0px;
+        top: 0px;
+        border-radius: 5px;
+        background-color: #5454D4;
+        color: white;
+    }
+
+    .f {
+        text-align: center;
+        background-color: #221f2a;
+        line-height: 150px;
+        color: white;
+        margin-top: 10%;
+        width: 100%;
+        display: flex;
+    }
+
+    .fo1 {
+        width: 33%;
+        /* display: flex; */
+    }
+
+    .fo2 {
+        width: 33%;
+        display: flex;
+    }
+
+    .f02 a {
+        color: rgba(255, 255, 255, 0.7);
+    }
+
+    .fo3 {
+        width: 33%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 376px) {
+
+    .index {
+        width: 375px;
+        color: white;
+        background-color: #221f2a;
+    }
+
+    .logo {
+        margin-left: -1% !important;
+    }
+
+    .navbar-brand {
+        position: absolute;
+
+
+        font-family: Montserrat !important;
+        font-style: normal !important;
+        font-weight: bold !important;
+        font-size: 40px !important;
+        line-height: 34px !important;
+        margin-left: 10%;
+        color: #FFFFFF !important;
+        font-family: Montserrat;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 34px;
+        letter-spacing: 0em;
+        text-align: left;
+
+    }
+    .phan1L h1{
+        height: 189px;
+width: 327px;
+left: 24px;
+top: 140px;
+border-radius: nullpx;
+font-family: Graphik;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 63px;
+letter-spacing: 0px;
+text-align: left;
+
+
+    }
+    .phan1L p {
+        height: 96px;
+width: 327px;
+left: 24px;
+top: 359px;
+border-radius: nullpx;
+font-family: Nunito Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+color:  #FFFFFFB2;
+
+    }
+    .phan1L button{
+        height: 44px;
+width: 166px;
+left: 24px;
+top: 505px;
+border-radius: 0px;
+background-color: blue;
+
+color: white;
+margin-top: 10%;
+margin-left: 5%;
+    }
+.phan1R{
+    margin-top: 10%;
+}
+.phan2tren{
+    width: 90%;
+}
+.phan2trenL{
+    font-family: Graphik;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0px;
+    text-align: left;
+    
+
+}
+.phan2trenR{
+    font-family: Nunito Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+color:#FFFFFFB2;
+
+}
+.phan2duoi {
+    height: 184px;
+width: 327px;
+left: 24px;
+top: 1390px;
+border-radius: 0px;
+
+background: url(/images/image\ 4.png);
+}
+
+.phan2anhtron {
+    height: 40px;
+width: 40px;
+left: 168px;
+top: 1105px;
+border-radius: 0px;
+
+    margin: auto;
+    position: absolute;
+   
+    border-radius: 100%;
+    background-color: #5454D4;
+}
+
+.phan2anhtron img {
+    margin: auto;
+    position: absolute;
+    top: 24%;
+    left: 36%;
+}
+
+.trensec3{
+    margin-top: 40%;
+}
+.phan3{
+    margin-top: 20%;
+}
+.hop{
+    text-align: center;
+    width: 80%;
+    margin-top: 20%;
+}
+.hop h3 {
+    font-family: Nunito Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 33px;
+letter-spacing: 0px;
+text-align: center;
+
+font-family: Nunito Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 33px;
+letter-spacing: -0.7503158450126648px;
+text-align: center;
+height: 33px;
+width: 199px;
+left: 88px;
+top: 137px;
+border-radius: nullpx;
+
+}
+.hop p {
+    color: rgba(255, 255, 255, 0.7);
+    font-family: Nunito Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+}
+
+phan5{
+    width: 80%;
+    
+}
+.phan5L h1{
+    height: 162px;
+width: 327px;
+left: 24px;
+top: 4657px;
+border-radius: nullpx;
+
+}
+
+.phan5R button {
+    height: 60px;
+    width: 201px;
+    left: 0px;
+    top: 0px;
+    border-radius: 5px;
+    background-color: #5454D4;
+    color: white;
+    margin-left: 20px;
+}
+
+.f {
+    text-align: center;
+    background-color: #221f2a;
+    line-height: 100px;
+    color: white;
+    margin-top: 10%;
+    width: 100%;
+    
+}
+
+.fo1 {
+    width: 33%;
+    /* display: flex; */
+}
+
+.fo2 {
+    width: 50%;
+    
+}
+
+.f02 a {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+
+.fo3 {
+    width: 33%;
+    font-family: Graphik;
+    color: white;
+    /* font-size: 20px; */
+}
+
+
+}
